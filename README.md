@@ -5,6 +5,13 @@
 Tron (TRX) address Generator and Hunting Online
 
 
+first install this package's:
+
+```
+pip3 install tronpy
+pip3 install tronapi
+```
+
 ---
 
 
